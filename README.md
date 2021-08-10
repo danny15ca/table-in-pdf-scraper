@@ -16,7 +16,9 @@ A small tool that scrapes all available tables in an input pdf file, then mergin
 ### Executing program
 
 * Run the program on a Command Line Interface (CLI):
-```
+
+```bash
+#!/bin/bash
 python scraper.py -p <path_to_the_input_pdf_file>
 ```
 
