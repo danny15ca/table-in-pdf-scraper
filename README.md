@@ -1,4 +1,4 @@
-# Table in PDF Scraper
+# Tables in PDF Scraper
 
 A small tool that converting tables in a pdf file to a single csv file.
 
